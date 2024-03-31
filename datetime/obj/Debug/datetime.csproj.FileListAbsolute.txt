@@ -1,0 +1,20 @@
+P:\УчМат\ИсИП-21\Проекты\Егошин Андрей\datetime\datetime\datetime\bin\Debug\datetime.exe.config
+P:\УчМат\ИсИП-21\Проекты\Егошин Андрей\datetime\datetime\datetime\bin\Debug\datetime.exe
+P:\УчМат\ИсИП-21\Проекты\Егошин Андрей\datetime\datetime\datetime\bin\Debug\datetime.pdb
+P:\УчМат\ИсИП-21\Проекты\Егошин Андрей\datetime\datetime\datetime\obj\Debug\datetime.csprojResolveAssemblyReference.cache
+P:\УчМат\ИсИП-21\Проекты\Егошин Андрей\datetime\datetime\datetime\obj\Debug\datetime.Form1.resources
+P:\УчМат\ИсИП-21\Проекты\Егошин Андрей\datetime\datetime\datetime\obj\Debug\datetime.Properties.Resources.resources
+P:\УчМат\ИсИП-21\Проекты\Егошин Андрей\datetime\datetime\datetime\obj\Debug\datetime.csproj.GenerateResource.Cache
+P:\УчМат\ИсИП-21\Проекты\Егошин Андрей\datetime\datetime\datetime\obj\Debug\datetime.csproj.CoreCompileInputs.cache
+P:\УчМат\ИсИП-21\Проекты\Егошин Андрей\datetime\datetime\datetime\obj\Debug\datetime.exe
+P:\УчМат\ИсИП-21\Проекты\Егошин Андрей\datetime\datetime\datetime\obj\Debug\datetime.pdb
+C:\Users\Andrew\Documents\datetime\datetime\bin\Debug\datetime.exe.config
+C:\Users\Andrew\Documents\datetime\datetime\bin\Debug\datetime.exe
+C:\Users\Andrew\Documents\datetime\datetime\bin\Debug\datetime.pdb
+C:\Users\Andrew\Documents\datetime\datetime\obj\Debug\datetime.csproj.AssemblyReference.cache
+C:\Users\Andrew\Documents\datetime\datetime\obj\Debug\datetime.Form1.resources
+C:\Users\Andrew\Documents\datetime\datetime\obj\Debug\datetime.Properties.Resources.resources
+C:\Users\Andrew\Documents\datetime\datetime\obj\Debug\datetime.csproj.GenerateResource.cache
+C:\Users\Andrew\Documents\datetime\datetime\obj\Debug\datetime.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Documents\datetime\datetime\obj\Debug\datetime.exe
+C:\Users\Andrew\Documents\datetime\datetime\obj\Debug\datetime.pdb
